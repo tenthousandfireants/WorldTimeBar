@@ -9,6 +9,8 @@ Made in microsoft VS studio 2022, and python 3.12 with pyinstaller and the inclu
 
 Exe should work for the basic program, check source code if you wish to make changes.
 
+Known issue: if it disappears, click on the taskbar it should pop back up.  usually will come back up on it's own.
+
 
 
 
