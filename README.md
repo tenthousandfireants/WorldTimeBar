@@ -9,7 +9,9 @@ Source code here for if there is anything you wish to change.
 
 
 # source code
-//--------------------------------------------------------------------------------------------------
+
+/*
+
 import tkinter as tk
 from tkinter import Label
 import pytz
@@ -105,6 +107,7 @@ run_tray()
 # Start the Tkinter main loop
 root.mainloop()
 
+*/
 
 ///-----------------------------------------------------------------------------------------
 
