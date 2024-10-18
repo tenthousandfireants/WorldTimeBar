@@ -6,7 +6,7 @@ World time in Sydney, Berlin, and New York City; on the left side of your taskba
 Made in microsoft VS studio 2022, and python 3.12 with pyinstaller and the included libraries.
 
 
-Source code here for if there is anything you wish to change.  between the /* */   best viewed in preview.
+Source code here for if there is anything you wish to change.  between the /* */   best viewed in code tab not preview.
 
 
 
