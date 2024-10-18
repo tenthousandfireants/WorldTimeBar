@@ -1,10 +1,14 @@
 # WorldTimeBar
-world time in sydney, berlin, and newyork on the left side of your taskbar.
-
-made in vs studio 2022, python 3.12, 
 
 
-Source code here for if there is anything you wish to change.
+World time in Sydney, Berlin, and New York City; on the left side of your taskbar.  Made for windows 11 in mind.  
+
+Made in microsoft VS studio 2022, and python 3.12 with pyinstaller and the included libraries.
+
+
+Source code here for if there is anything you wish to change.  between the /* */   best viewed in preview.
+
+
 
 
 
